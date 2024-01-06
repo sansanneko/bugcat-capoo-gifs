@@ -1,3 +1,4 @@
+
 ## Main sources of *Bugcat capoo sickers* 贴纸的主要网站来源
 
 |    网址名称 Website name    | 链接🔗 Link |
@@ -11,7 +12,8 @@
  - 请大家尊重版权，拿gif图用作商业用途是不可以的哦😊
  
  ![一个bugcat capoo行摘帽礼](https://media0.giphy.com/media/s5pqEUOsNQISDw6Eu7/giphy.gif)
-## 如何添加bugcat的贴纸？
-
-
+## 如何添加bugcat capoo的贴纸？How to contribute to this readme.md? 
+WIP
+## 如何保存gif图 How to save the stickers to your computer?
+WIP
 
