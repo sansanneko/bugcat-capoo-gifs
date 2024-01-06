@@ -9,6 +9,7 @@
  - 为了方便bugcat capoo爱好者更好的去保存gif图，sansanneko便把bugcat capoo的图片贴在这个readme.md上。
  - 主要是为了练习markdown的语法罢（笑， 毫无编程的技术含量
  - 请诸位尊重版权，不要拿贴纸用作商业用途
+ 
  ![一个bugcat capoo行摘帽礼](https://media0.giphy.com/media/s5pqEUOsNQISDw6Eu7/giphy.gif)
 ## 如何添加bugcat的贴纸？
 
