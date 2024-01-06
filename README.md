@@ -12,8 +12,9 @@
  - 请大家尊重版权，拿gif图用作商业用途是不可以的哦😊
  
  ![一个bugcat capoo行摘帽礼](https://media0.giphy.com/media/s5pqEUOsNQISDw6Eu7/giphy.gif)
-## 如何添加bugcat capoo的贴纸？How to contribute to this readme.md? 
+## 如何添加bugcat capoo的gif图？How to contribute to this readme.md? 
 WIP
 ## 如何保存gif图 How to save the stickers to your computer?
 WIP
-
+## 下面的表格整理了bugcat capoo的gif图 The .gif pictures of Bugcat Capoo are shown in the table as follows 👇🏻
+WIP
