@@ -9,9 +9,14 @@
 ## 为什么我创建了这个repository ?
 
  - 为了方便bugcat capoo爱好者更好的去保存gif图，咱便把bugcat capoo的图片贴在这个readme.md上
- - 主要是我为了练习markdown的语法（笑， 毫无编程的技术含量
+ - 主要是我为了练习markdown的语法
  - 请大家尊重版权，拿gif图用作商业用途是不可以的哦😊
- 
+ ## bugcat capoo的介绍
+ **Bugcat Capoo** (貓貓蟲咖波 _Māo māo chóng kā bō_), sometimes abbreviated to **Capoo**, is a [cartoon](https://en.wikipedia.org/wiki/Cartoon "Cartoon") character resembling a chubby blue [cat](https://en.wikipedia.org/wiki/Cat "Cat") with six legs. He is the namesake and main subject of a [webcomic](https://en.wikipedia.org/wiki/Webcomic "Webcomic") strip on [Facebook](https://en.wikipedia.org/wiki/Facebook "Facebook") and [Instagram](https://en.wikipedia.org/wiki/Instagram "Instagram"), cartoon clips on [YouTube](https://en.wikipedia.org/wiki/YouTube "YouTube"), and stickers on [LINE](https://en.wikipedia.org/wiki/Line_(software) "Line (software)") and other social media. He was created by the [Taiwanese](https://en.wikipedia.org/wiki/Taiwan "Taiwan") artist Yara (亞拉 _Yala_) in 2014.
+ **猫猫虫咖波**（**英语：Bugcat Capoo**，有时简称为**Capoo**），外表像猫又像虫的卡通人物[[1]](https://zh.wikipedia.org/wiki/%E8%B2%93%E8%B2%93%E8%9F%B2%E5%92%96%E6%B3%A2#cite_note-1)，它是Facebook和Instagram上的网络漫画、YouTube上的卡通短片、LINE和其他社交媒体上的贴图的主人公。于2014年由台湾艺术家亚拉所创造。
+
+其设定为像猫又像虫蓝色小怪物，平时拥有6只脚，数量会视情况变化，暴力猎奇又萌萌可爱，最爱吃肉，还有咬手手。[[2]](https://zh.wikipedia.org/wiki/%E8%B2%93%E8%B2%93%E8%9F%B2%E5%92%96%E6%B3%A2#cite_note-2)漫画中的咖波是一只类似宠物的存在，与主人 - 拉拉和后续被收养的大型犬 - 狗狗住在一起，大部分的内容都是围绕日常场景展开，收尾无可避免都是咖波吃掉令他沮丧的人事物或是被主人拉拉惩罚。
+ ### from wikipedia [bugcat capoo](https://en.wikipedia.org/wiki/Bugcat_Capoo)
  ![一个bugcat capoo行摘帽礼](https://media0.giphy.com/media/s5pqEUOsNQISDw6Eu7/giphy.gif)
 
 ## 如何保存gif图 How to download the stickers to your computer?
@@ -30,5 +35,5 @@
 |3| ||
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM3MTk1ODg1LDEwNDA5MzY2MjBdfQ==
+eyJoaXN0b3J5IjpbLTE5MDA3MDk3MjUsMTA0MDkzNjYyMF19
 -->
