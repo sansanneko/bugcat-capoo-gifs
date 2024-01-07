@@ -18,7 +18,7 @@
  - 鼠标右键gif图
  - 点击“图片另存为
  - 选择保存地址，即可保存图片
-### translation:
+### Translation:
  - Right click the gif pic, then click "save as" to download the file.
 
 
@@ -29,5 +29,5 @@
 |2|    ||
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTgzODE2NDgsMTA0MDkzNjYyMF19
+eyJoaXN0b3J5IjpbLTc5MzYyOTgwOCwxMDQwOTM2NjIwXX0=
 -->
