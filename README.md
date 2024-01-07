@@ -16,9 +16,13 @@
 ## 如何添加bugcat capoo的gif图？How to contribute to this readme.md? 
 WIP
 ## 如何保存gif图 How to save the stickers to your computer?
-1. 鼠标右键gif图
-2. 点击“图片另存为
-3. 选择保存地址，即可保存图片
+ - 鼠标右键gif图
+ - 点击“图片另存为
+ - 选择保存地址，即可保存图片
+### translation:
+ - Right click the gif pic, then click "save as"
+
+
 ## 下面的表格整理了bugcat capoo的gif图 The .gif pictures of Bugcat Capoo are shown in the table below 👇🏻
 | 序号/No. |描述/Description | gif图 |
 |--|--|--|
@@ -26,5 +30,5 @@ WIP
 |2|    ||
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg3NTgzODE0LDEwNDA5MzY2MjBdfQ==
+eyJoaXN0b3J5IjpbLTIwNzEzNTgwNzEsMTA0MDkzNjYyMF19
 -->
