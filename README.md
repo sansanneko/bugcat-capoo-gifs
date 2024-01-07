@@ -1,11 +1,5 @@
 
 
-## Main sources of *Bugcat capoo sickers* 贴纸的主要网站来源
-
-|    网址名称 Website name    | 链接🔗 Link |
-| ----------                  |         --- |
-| Tenor                       |  [https://tenor.com/users/toiletto/stickers](https://tenor.com/users/toiletto/stickers) |
-| Giphy                       |  [https://giphy.com/bugcat_capoo](https://giphy.com/bugcat_capoo) |
 ## 为什么我创建了这个repository ?
 
  - 为了方便bugcat capoo爱好者更好的去保存gif图，咱便把bugcat capoo的图片贴在这个readme.md上
@@ -29,7 +23,7 @@
  - 点击“图片另存为
  - 选择保存地址，即可保存图片
 ### Translation:
- - Right click the gif pic, then click "save as" to download the file.
+ - Right click the gif pic, then click "save as" to download the file in
 
 
 ## 下面的表格整理了bugcat capoo的gif图 The .gif pictures of Bugcat Capoo are shown in the table below 👇🏻
@@ -39,6 +33,13 @@
 |2|  capoo点击红色按钮，它的头顶上显示爱心符号  |![enter image description here](https://media3.giphy.com/media/IEm8kcqLVCctHJ1kWm/giphy.gif)|
 |3| ||
 
+
+## Main sources of *Bugcat capoo sickers* 贴纸的主要网站来源
+
+|    网址名称 Website name    | 链接🔗 Link |
+| ----------                  |         --- |
+| Tenor                       |  [https://tenor.com/users/toiletto/stickers](https://tenor.com/users/toiletto/stickers) |
+| Giphy                       |  [https://giphy.com/bugcat_capoo](https://giphy.com/bugcat_capoo) |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkwMTQxODkzLDEwNDA5MzY2MjBdfQ==
+eyJoaXN0b3J5IjpbLTE4NDgwMzgwMzgsMTA0MDkzNjYyMF19
 -->
