@@ -27,8 +27,8 @@
 |--|--|--|
 | 1 | bugcat capoo行摘帽礼 |![enter image description here](https://media0.giphy.com/media/s5pqEUOsNQISDw6Eu7/giphy.gif) |
 |2|  capoo点击红色按钮，ta的头顶上显示爱心符号  |![enter image description here](https://media3.giphy.com/media/IEm8kcqLVCctHJ1kWm/giphy.gif)|
-|3| |
+|3| ||
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjkwODQzMTMsMTA0MDkzNjYyMF19
+eyJoaXN0b3J5IjpbMzM3MTk1ODg1LDEwNDA5MzY2MjBdfQ==
 -->
