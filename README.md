@@ -25,9 +25,10 @@
 ## 下面的表格整理了bugcat capoo的gif图 The .gif pictures of Bugcat Capoo are shown in the table below 👇🏻
 | 序号/No. |描述/Description | gif图 |
 |--|--|--|
-| 1 | 一个bugcat capoo行摘帽礼 |![enter image description here](https://media0.giphy.com/media/s5pqEUOsNQISDw6Eu7/giphy.gif) |
-|2|    ||
+| 1 | bugcat capoo行摘帽礼 |![enter image description here](https://media0.giphy.com/media/s5pqEUOsNQISDw6Eu7/giphy.gif) |
+|2|  capoo点击红色按钮，ta的头顶上显示爱心符号  |![enter image description here](https://media3.giphy.com/media/IEm8kcqLVCctHJ1kWm/giphy.gif)|
+|3| |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5MzYyOTgwOCwxMDQwOTM2NjIwXX0=
+eyJoaXN0b3J5IjpbLTE2MjkwODQzMTMsMTA0MDkzNjYyMF19
 -->
