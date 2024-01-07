@@ -21,7 +21,7 @@
 - Bugcat Capoo的性别为「Male」，但需要注意的是，可爱不分性别。
 
 
- ### from wikipedia [bugcat capoo](https://en.wikipedia.org/wiki/Bugcat_Capoo)
+ ### From wikipedia [bugcat capoo](https://en.wikipedia.org/wiki/Bugcat_Capoo)
  ![一个bugcat capoo行摘帽礼](https://media0.giphy.com/media/s5pqEUOsNQISDw6Eu7/giphy.gif)
 
 ## 如何保存gif图 How to download the stickers to your computer?
@@ -40,5 +40,5 @@
 |3| ||
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MDMxNTE5NSwxMDQwOTM2NjIwXX0=
+eyJoaXN0b3J5IjpbLTIwNTYyNDU5LDEwNDA5MzY2MjBdfQ==
 -->
