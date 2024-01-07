@@ -23,7 +23,7 @@
  - 点击“图片另存为
  - 选择保存地址，即可保存图片
 ### Translation:
- - Right click the gif pic, then click "save as" to download the file in
+ - Right click the gif pic, then click "save as" to download the file to your computer.
 
 
 ## 下面的表格整理了bugcat capoo的gif图 The .gif pictures of Bugcat Capoo are shown in the table below 👇🏻
@@ -41,5 +41,5 @@
 | Tenor                       |  [https://tenor.com/users/toiletto/stickers](https://tenor.com/users/toiletto/stickers) |
 | Giphy                       |  [https://giphy.com/bugcat_capoo](https://giphy.com/bugcat_capoo) |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDgwMzgwMzgsMTA0MDkzNjYyMF19
+eyJoaXN0b3J5IjpbLTIzMDE2NDE4LDEwNDA5MzY2MjBdfQ==
 -->
