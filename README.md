@@ -30,8 +30,8 @@
 | 序号/No. |描述/Description | gif图 |
 |--|--|--|
 | 1 | bugcat capoo行摘帽礼 |![enter image description here](https://media0.giphy.com/media/s5pqEUOsNQISDw6Eu7/giphy.gif) |
-|2|  capoo点击红色按钮，它的头顶上显示爱心符号  |![enter image description here](https://media3.giphy.com/media/IEm8kcqLVCctHJ1kWm/giphy.gif)|
-|3|capoo进行卫生工作，以保证自己不被病毒感染。（向手上喷洒消毒水，） |![enter image description here](https://media0.giphy.com/media/UVYGRsrSlSlYJjZaqQ/giphy.gif)|
+|2|  capoo点击红色按钮，它的头顶上显示爱心符号，适合表达自己喜欢他人的作品/  |![enter image description here](https://media3.giphy.com/media/IEm8kcqLVCctHJ1kWm/giphy.gif)|
+|3|capoo进行卫生工作，以保证自己不被病毒感染。（戴口罩，用洗手液洗手），适合在疫情防控/大型流行病(流感等)在聊天时提醒他人注意卫生时使用。 |![enter image description here](https://media0.giphy.com/media/UVYGRsrSlSlYJjZaqQ/giphy.gif)|
 
 
 ## Main sources of *Bugcat capoo sickers* 贴纸的主要网站来源
@@ -41,5 +41,5 @@
 | Tenor                       |  [https://tenor.com/users/toiletto/stickers](https://tenor.com/users/toiletto/stickers) |
 | Giphy                       |  [https://giphy.com/bugcat_capoo](https://giphy.com/bugcat_capoo) |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3Mjc0NzQ0NywxMDQwOTM2NjIwXX0=
+eyJoaXN0b3J5IjpbMTUwNzYzOTQ1MCwxMDQwOTM2NjIwXX0=
 -->
