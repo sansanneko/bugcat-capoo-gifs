@@ -12,7 +12,6 @@
 
 - 其设定为像猫又像虫蓝色小怪物，平时拥有6只脚，数量会视情况变化，暴力猎奇又萌萌可爱，最爱吃肉，还有咬手手。[[2]](https://zh.wikipedia.org/wiki/%E8%B2%93%E8%B2%93%E8%9F%B2%E5%92%96%E6%B3%A2#cite_note-2)漫画中的咖波是一只类似宠物的存在，与主人 - 拉拉和后续被收养的大型犬 - 狗狗住在一起，大部分的内容都是围绕日常场景展开，收尾无可避免都是咖波吃掉令他沮丧的人事物或是被主人拉拉惩罚。
 
-- Bugcat Capoo的性别为「Male」，但需要注意的是，可爱不分性别。
 
 
  ### From Wikipedia [bugcat capoo](https://en.wikipedia.org/wiki/Bugcat_Capoo)
@@ -32,8 +31,8 @@
 | 序号/No. |描述/Description | gif图 |
 |--|--|--|
 | 1 | bugcat capoo行摘帽礼，加到好友后发的第一个sticker🥰 |![enter image description here](https://media0.giphy.com/media/s5pqEUOsNQISDw6Eu7/giphy.gif) |
-|2|  capoo点击红色按钮，它的头顶上显示爱心符号，适合表达自己喜欢他人的作品/ 对他人表示喜爱。 |![enter image description here](https://media3.giphy.com/media/IEm8kcqLVCctHJ1kWm/giphy.gif)|
-|3|capoo进行卫生工作，以保证自己不被病毒感染。（戴口罩，用洗手液洗手），适合在疫情防控/大型流行病(流感等)在聊天时提醒他人注意卫生时使用。 |![enter image description here](https://media0.giphy.com/media/UVYGRsrSlSlYJjZaqQ/giphy.gif)|
+|2|  capoo点击红色按钮，它的头顶上显示爱心符号 |![enter image description here](https://media3.giphy.com/media/IEm8kcqLVCctHJ1kWm/giphy.gif)|
+|3|capoo进行卫生工作，以保证自己不被病毒感染。 |![enter image description here](https://media0.giphy.com/media/UVYGRsrSlSlYJjZaqQ/giphy.gif)|
 
 
 ## Main sources of *Bugcat capoo sickers* 贴纸的主要网站来源
@@ -43,6 +42,6 @@
 | Tenor                       |  [https://tenor.com/users/toiletto/stickers](https://tenor.com/users/toiletto/stickers) |
 | Giphy                       |  [https://giphy.com/bugcat_capoo](https://giphy.com/bugcat_capoo) |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwOTI5MDI5MCwtMjA2NDUyNjUwNCwxMD
+eyJoaXN0b3J5IjpbMTk0NTM4NjIwMiwtMjA2NDUyNjUwNCwxMD
 QwOTM2NjIwXX0=
 -->
