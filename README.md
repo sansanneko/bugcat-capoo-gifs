@@ -36,9 +36,9 @@
 | 序号/No. |描述/Description | gif图 |
 |--|--|--|
 | 1 | bugcat capoo行摘帽礼 |![enter image description here](https://media0.giphy.com/media/s5pqEUOsNQISDw6Eu7/giphy.gif) |
-|2|  capoo点击红色按钮，的头顶上显示爱心符号  |![enter image description here](https://media3.giphy.com/media/IEm8kcqLVCctHJ1kWm/giphy.gif)|
+|2|  capoo点击红色按钮，它的头顶上显示爱心符号  |![enter image description here](https://media3.giphy.com/media/IEm8kcqLVCctHJ1kWm/giphy.gif)|
 |3| ||
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ1NzcxMDk0LDEwNDA5MzY2MjBdfQ==
+eyJoaXN0b3J5IjpbLTU0MDMxNTE5NSwxMDQwOTM2NjIwXX0=
 -->
