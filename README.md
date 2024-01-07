@@ -18,6 +18,7 @@
 
 - 其设定为像猫又像虫蓝色小怪物，平时拥有6只脚，数量会视情况变化，暴力猎奇又萌萌可爱，最爱吃肉，还有咬手手。[[2]](https://zh.wikipedia.org/wiki/%E8%B2%93%E8%B2%93%E8%9F%B2%E5%92%96%E6%B3%A2#cite_note-2)漫画中的咖波是一只类似宠物的存在，与主人 - 拉拉和后续被收养的大型犬 - 狗狗住在一起，大部分的内容都是围绕日常场景展开，收尾无可避免都是咖波吃掉令他沮丧的人事物或是被主人拉拉惩罚。
 
+- Bugcat Capoo的性别为「Male」，但需要注意的是，可爱不分性别。
 
 
  ### from wikipedia [bugcat capoo](https://en.wikipedia.org/wiki/Bugcat_Capoo)
@@ -35,9 +36,9 @@
 | 序号/No. |描述/Description | gif图 |
 |--|--|--|
 | 1 | bugcat capoo行摘帽礼 |![enter image description here](https://media0.giphy.com/media/s5pqEUOsNQISDw6Eu7/giphy.gif) |
-|2|  capoo点击红色按钮，ta的头顶上显示爱心符号  |![enter image description here](https://media3.giphy.com/media/IEm8kcqLVCctHJ1kWm/giphy.gif)|
+|2|  capoo点击红色按钮，的头顶上显示爱心符号  |![enter image description here](https://media3.giphy.com/media/IEm8kcqLVCctHJ1kWm/giphy.gif)|
 |3| ||
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzg0MDM0NiwxMDQwOTM2NjIwXX0=
+eyJoaXN0b3J5IjpbODQ1NzcxMDk0LDEwNDA5MzY2MjBdfQ==
 -->
