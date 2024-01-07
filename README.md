@@ -1,4 +1,5 @@
 
+
 ## Main sources of *Bugcat capoo sickers* 贴纸的主要网站来源
 
 |    网址名称 Website name    | 链接🔗 Link |
@@ -17,4 +18,8 @@ WIP
 ## 如何保存gif图 How to save the stickers to your computer?
 WIP
 ## 下面的表格整理了bugcat capoo的gif图 The .gif pictures of Bugcat Capoo are shown in the table as follows 👇🏻
-WIP
+| 序号/No. |描述/Description | gif图 |
+|--|--|--|
+| 1 | 一个bugcat capoo行摘帽礼 |![enter image description here](https://media0.giphy.com/media/s5pqEUOsNQISDw6Eu7/giphy.gif) |
+|2|    ||
+
