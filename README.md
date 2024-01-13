@@ -30,10 +30,10 @@
 
 | 序号/No. |描述/Description | gif图 |
 |--|--|--|
-| 1 | bugcat capoo行摘帽礼，加到好友后发的第一个sticker🥰 |![enter image description here](https://media0.giphy.com/media/s5pqEUOsNQISDw6Eu7/giphy.gif) |
+| 1 | bugcat capoo行摘帽礼 |![enter image description here](https://media0.giphy.com/media/s5pqEUOsNQISDw6Eu7/giphy.gif) |
 |2|  capoo点击红色按钮，它的头顶上显示爱心符号 |![enter image description here](https://media3.giphy.com/media/IEm8kcqLVCctHJ1kWm/giphy.gif)|
 |3|capoo进行卫生工作，以保证自己不被病毒感染。 |![enter image description here](https://media0.giphy.com/media/UVYGRsrSlSlYJjZaqQ/giphy.gif)|
-
+|4||![enter image description here](https://media1.giphy.com/media/wNk71OcVtOPncxNHVT/giphy.gif)|
 
 ## Main sources of *Bugcat capoo sickers* 贴纸的主要网站来源
 
@@ -42,6 +42,6 @@
 | Tenor                       |  [https://tenor.com/users/toiletto/stickers](https://tenor.com/users/toiletto/stickers) |
 | Giphy                       |  [https://giphy.com/bugcat_capoo](https://giphy.com/bugcat_capoo) |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NTM4NjIwMiwtMjA2NDUyNjUwNCwxMD
-QwOTM2NjIwXX0=
+eyJoaXN0b3J5IjpbLTE0NzQ3MDUzNzksLTIwNjQ1MjY1MDQsMT
+A0MDkzNjYyMF19
 -->
