@@ -32,10 +32,11 @@
 |--|--|--|
 | 1 | bugcat capoo行摘帽礼 |![enter image description here](https://media0.giphy.com/media/s5pqEUOsNQISDw6Eu7/giphy.gif) |
 |2|  capoo点击红色按钮，它的头顶上显示爱心符号 |![enter image description here](https://media3.giphy.com/media/IEm8kcqLVCctHJ1kWm/giphy.gif)|
-|3| dai'd|![enter image description here](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHV2NXRjanFidmNucGtlemppaWUzbmVlMzNtdDBvMTF3cWRoc3k0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LOXAmVhFOdo0BmP9n6/giphy.gif)|
+|3| 待定|![enter image description here](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHV2NXRjanFidmNucGtlemppaWUzbmVlMzNtdDBvMTF3cWRoc3k0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LOXAmVhFOdo0BmP9n6/giphy.gif)|
 |4|待定 |![enter image description here](https://media1.giphy.com/media/wNk71OcVtOPncxNHVT/giphy.gif)|
-|5||
-
+|5|Thanks|![enter image description here](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWlsbnhyMXp1aWcxcDBmcDM2bjhxN2F4Yno1ZDdvM3M3MG4xYjNhdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/euMcV5dkIqL0GzycqG/giphy.gif)|
+|6||![enter image description here](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm1ieWxoeTVpYm5kYmNoc2U0b2t0dHp4cmNsZjc1YjFxcjJjbHUwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GDKFgaD6n4TBVitoGu/giphy.gif)|
+|7||1|
 ## Main sources of *Bugcat capoo sickers* 贴纸的主要网站来源
 
 |    网址名称 Website name    | 链接🔗 Link |
@@ -43,6 +44,6 @@
 | Tenor                       |  [https://tenor.com/users/toiletto/stickers](https://tenor.com/users/toiletto/stickers) |
 | Giphy                       |  [https://giphy.com/bugcat_capoo](https://giphy.com/bugcat_capoo) |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjU3MzE3MzUsLTIwNjQ1MjY1MDQsMT
-A0MDkzNjYyMF19
+eyJoaXN0b3J5IjpbNjE2NDg1MzgwLC0yMDY0NTI2NTA0LDEwND
+A5MzY2MjBdfQ==
 -->
