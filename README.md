@@ -27,7 +27,7 @@
 
 ## 下面的表格整理了bugcat capoo的gif图 The .gif pictures of Bugcat Capoo are shown in the table below 👇🏻
 - 如果图片无法加载，可以看描述
-## 
+## 类别1
 
 | 序号/No. |描述/Description | gif图 |
 |--|--|--|
@@ -45,6 +45,6 @@
 | Tenor                       |  [https://tenor.com/users/toiletto/stickers](https://tenor.com/users/toiletto/stickers) |
 | Giphy                       |  [https://giphy.com/bugcat_capoo](https://giphy.com/bugcat_capoo) |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NjM2MDY1NCwtMjA2NDUyNjUwNCwxMD
+eyJoaXN0b3J5IjpbMTQ2MTU4ODE5NywtMjA2NDUyNjUwNCwxMD
 QwOTM2NjIwXX0=
 -->
