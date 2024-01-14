@@ -45,6 +45,5 @@
 | Tenor                       |  [https://tenor.com/users/toiletto/stickers](https://tenor.com/users/toiletto/stickers) |
 | Giphy                       |  [https://giphy.com/bugcat_capoo](https://giphy.com/bugcat_capoo) |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY1Nzg5NTcxLC0yMTMyODk0MDY0LC0yMD
-Y0NTI2NTA0LDEwNDA5MzY2MjBdfQ==
+eyJoaXN0b3J5IjpbNTY1Nzg5NTcxXX0=
 -->
