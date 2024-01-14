@@ -1,6 +1,6 @@
 
 
-## 为什么我创建了这个repository ?
+## 为什么我创建了这个repository ?（WIP）
 
  - 为了方便bugcat capoo爱好者更好的去保存gif图，咱便把bugcat capoo的图片贴在这个readme.md上
  - 主要是我为了练习markdown的语法
@@ -45,6 +45,6 @@
 | Tenor                       |  [https://tenor.com/users/toiletto/stickers](https://tenor.com/users/toiletto/stickers) |
 | Giphy                       |  [https://giphy.com/bugcat_capoo](https://giphy.com/bugcat_capoo) |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MTU4ODE5NywtMjA2NDUyNjUwNCwxMD
-QwOTM2NjIwXX0=
+eyJoaXN0b3J5IjpbLTIxMzI4OTQwNjQsLTIwNjQ1MjY1MDQsMT
+A0MDkzNjYyMF19
 -->
