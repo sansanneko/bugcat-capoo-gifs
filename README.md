@@ -27,6 +27,7 @@
 
 ## 下面的表格整理了bugcat capoo的gif图 The .gif pictures of Bugcat Capoo are shown in the table below 👇🏻
 - 如果图片无法加载，可以看描述
+## 
 
 | 序号/No. |描述/Description | gif图 |
 |--|--|--|
@@ -36,7 +37,7 @@
 |4|待定 |![enter image description here](https://media1.giphy.com/media/wNk71OcVtOPncxNHVT/giphy.gif)|
 |5|Thanks|![enter image description here](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWlsbnhyMXp1aWcxcDBmcDM2bjhxN2F4Yno1ZDdvM3M3MG4xYjNhdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/euMcV5dkIqL0GzycqG/giphy.gif)|
 |6||![enter image description here](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm1ieWxoeTVpYm5kYmNoc2U0b2t0dHp4cmNsZjc1YjFxcjJjbHUwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GDKFgaD6n4TBVitoGu/giphy.gif)|
-|7||1|
+|7||![enter image description here](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTBzcWtyYWRpOGQyZ2xlbHJ0aTR3Y2g0aWluZnFhMGkzbXo5MnBoaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KDJyeD3ek5biJLIEpB/giphy.gif)|
 ## Main sources of *Bugcat capoo sickers* 贴纸的主要网站来源
 
 |    网址名称 Website name    | 链接🔗 Link |
@@ -44,6 +45,6 @@
 | Tenor                       |  [https://tenor.com/users/toiletto/stickers](https://tenor.com/users/toiletto/stickers) |
 | Giphy                       |  [https://giphy.com/bugcat_capoo](https://giphy.com/bugcat_capoo) |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE2NDg1MzgwLC0yMDY0NTI2NTA0LDEwND
-A5MzY2MjBdfQ==
+eyJoaXN0b3J5IjpbMTc4NjM2MDY1NCwtMjA2NDUyNjUwNCwxMD
+QwOTM2NjIwXX0=
 -->
