@@ -2,9 +2,9 @@
 
 ## 为什么我创建了这个repository ?（WIP）
 
- - 为了方便bugcat capoo爱好者更好的去保存gif图，咱便把bugcat capoo的图片贴在这个readme.md上
- - 主要是我为了练习markdown的语法
- - 请大家尊重版权，拿gif图用作商业用途是不可以的哦😊
+ - 为了方便bugcat capoo爱好者更好的去保存gif图(❁´◡`❁)
+ - 也是我为了练习markdown的语法(●'◡'●)
+
  ## bugcat capoo的介绍
 -  **Bugcat Capoo** (貓貓蟲咖波 _Māo māo chóng kā bō_), sometimes abbreviated to **Capoo**, is a [cartoon](https://en.wikipedia.org/wiki/Cartoon "Cartoon") character resembling a chubby blue [cat](https://en.wikipedia.org/wiki/Cat "Cat") with six legs. He is the namesake and main subject of a [webcomic](https://en.wikipedia.org/wiki/Webcomic "Webcomic") strip on [Facebook](https://en.wikipedia.org/wiki/Facebook "Facebook") and [Instagram](https://en.wikipedia.org/wiki/Instagram "Instagram"), cartoon clips on [YouTube](https://en.wikipedia.org/wiki/YouTube "YouTube"), and stickers on [LINE](https://en.wikipedia.org/wiki/Line_(software) "Line (software)") and other social media. He was created by the [Taiwanese](https://en.wikipedia.org/wiki/Taiwan "Taiwan") artist Yara (亞拉 _Yala_) in 2014.
 - Capoo is described as "a little monster like a cat and like a bug, both violent and cute, who loves to eat meat".[[1]](https://en.wikipedia.org/wiki/Bugcat_Capoo#cite_note-1) The comic depicts him as a cute house pet with an endless hunger for meat and a disdain for vegetables, living together with his owner Lala and the seemingly immortal Dogdog—a large dog possessing uncanny skills in every field—in Lala's house. Much of the comic revolves around everyday situations which explode into absurdity, and often end with Capoo either eating whatever frustrates him, or being comically punished by Lala for his antics.
@@ -45,6 +45,6 @@
 | Tenor                       |  [https://tenor.com/users/toiletto/stickers](https://tenor.com/users/toiletto/stickers) |
 | Giphy                       |  [https://giphy.com/bugcat_capoo](https://giphy.com/bugcat_capoo) |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzI4OTQwNjQsLTIwNjQ1MjY1MDQsMT
-A0MDkzNjYyMF19
+eyJoaXN0b3J5IjpbNTY1Nzg5NTcxLC0yMTMyODk0MDY0LC0yMD
+Y0NTI2NTA0LDEwNDA5MzY2MjBdfQ==
 -->
